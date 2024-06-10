@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FilmHunt</string>
+    <string name="splash_title">FilmHunt</string>
+    <string name="your_ultimate_movie_search_engine">Your Ultimate Movie Search Engine.</string>
+    <string name="find_a_film">Find A Film</string>
+    <string name="background_image">Background Image</string>
+    <string name="logo">Logo</string>
+    <string name="regis_university_msse667_web_mobile_frameworks">Regis University, MSSE667 - Web Mobile Frameworks</string>
+    <string name="dashboard_screen">Dashboard Screen</string>
+
+    <string name='login'>Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="confirmPass">Confirm Password</string>
+    <string name="registerHere">Click to register</string>
+    <string name="loginNow">Already have an account? Sign in here.</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_user_sign_up">New User? Sign Up</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="settings">Settings</string>
+
+
+</resources>
